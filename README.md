@@ -6,8 +6,11 @@ SecureBank Management System is a Java-based banking application that simulates
 basic banking operations such as account creation, deposits, withdrawals,
 and balance inquiry. The project demonstrates <b>Object-Oriented Programming (OOP)</b>,
 GUI development using <b>Java Swing</b>, and database connectivity using <b>JDBC</b>.
-</p>
 
+The system is built with Java Swing for the graphical user interface and uses MySQL with JDBC for database connectivity. It allows efficient management of customer accounts and financial transactions in a structured way.
+
+This project is developed as a learning application to help understand how banking systems handle customer data, process transactions, and maintain secure financial records. It also provides practical experience in Java development, database integration, and building management systems.
+</p>
 <h3>🚀 Features</h3>
 <ul>
 <li>🔐 User Login Authentication</li>
