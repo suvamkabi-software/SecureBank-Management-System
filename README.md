@@ -41,11 +41,27 @@ git clone https://github.com/suvamkabi-software/SecureBank-Management-System.git
 <li>Configure the MySQL database</li>
 <li>Compile and run the main class</li>
 </ol>
-
 <pre>
-javac main.java
-java main
+javac login.java
+java login
 </pre>
+<h2>📂 Project Structure</h2>
+<pre>
+SecureBank-Management-System
+│
+├── src/
+│   ├── Login.java
+│   ├── Signup.java
+│   ├── Deposit.java
+│   ├── Withdraw.java
+│   └── BalanceEnquiry.java
+│
+├── database/
+│   └── data_base_connect.sql
+│
+└── README.md
+</pre>
+
 
 <h3>👨‍💻 Author</h3>
 <p>
