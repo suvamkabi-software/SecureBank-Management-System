@@ -92,6 +92,6 @@ java login.java</h5>
 <p align="center">>
 <img src="https://github.com/suvamkabi-software/SecureBank-Management-System/blob/f72d22ae6641d1b4285ac9cd0f30b4656aeadc35/form.jpg" width="600">
 </p>
-<p align="center">>
-<img src="https://github.com/suvamkabi-software/SecureBank-Management-System/blob/f72d22ae6641d1b4285ac9cd0f30b4656aeadc35/form.jpg" width="600">
+<p align="center">
+<img src="transa.jpg" width="600">
 </p>
