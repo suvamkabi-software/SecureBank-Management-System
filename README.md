@@ -56,25 +56,13 @@ https://github.com/suvamkabi-software
 </a>
 </p>
 
-<p><i>This project is created for educational purposes.</i></p>
-
-How to Run
+<h5>How to Run
 
 1. Clone the repository
 git clone https://github.com/suvamkabi-software/SecureBank-Management-System
 
 2. Compile the program<br>
 javac Main.java
-<h3>📸 Screenshots</h3>
-
-<p><b>Login Page</b></p>
-<img src="screenshots/login.png" width="700">
-
-<p><b>Bank Dashboard</b></p>
-<img src="screenshots/dashboard.png" width="700">
-
-<p><b>Deposit Window</b></p>
-<img src="screenshots/deposit.png" width="700">
 
 4. Run the program
-java login
+java login.java</h5>
