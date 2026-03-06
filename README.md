@@ -85,10 +85,13 @@ java login.java</h5>
 
 <h2>Project Screenshot</h2>
 
-<p>
+<p align="center">>
 <img src="https://github.com/suvamkabi-software/SecureBank-Management-System/blob/ffe554019bbf9de55ddd5d627acad126bcb0ad61/login_page.png" width="600">
 </p>
 
-<p>
-<img src="ihttps://github.com/suvamkabi-software/SecureBank-Management-System/blob/ffe554019bbf9de55ddd5d627acad126bcb0ad61/login_page.png" width="600">
+<p align="center">>
+<img src="https://github.com/suvamkabi-software/SecureBank-Management-System/blob/f72d22ae6641d1b4285ac9cd0f30b4656aeadc35/form.jpg" width="600">
+</p>
+<p align="center">>
+<img src="https://github.com/suvamkabi-software/SecureBank-Management-System/blob/f72d22ae6641d1b4285ac9cd0f30b4656aeadc35/form.jpg" width="600">
 </p>
